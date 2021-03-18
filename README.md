@@ -19,14 +19,17 @@ and I will run your programs from the command line as well
 ```
 mono Program.exe
 ```  
+Of course, replace 'Program' with the name of your file....
 
 ##  Task
 Write a program in C# that asks the user for a color, a noun, and a name. 
 Display the poem:
 
-> Roses are {COLOR}
-> {Noun} are blue,
-> {Name} loves you. 
+```
+ Roses are {COLOR}
+ {Noun} are blue,
+ {Name} loves you. 
+```
 
 Substituting the values provided as input. 
 
