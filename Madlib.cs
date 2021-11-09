@@ -6,13 +6,9 @@ public class Program
 {
 	public static void Main()
 	{
-		Console.WriteLine("Enter a Name: ");
+		Console.WriteLine("Enter a Name: Enter a Color: Enter a Noun (pl): ");
         string name = Console.ReadLine();
-        
-        Console.WriteLine("Enter a Color: ");
         string color = Console.ReadLine();
-
-        Console.WriteLine("Enter a Noun (pl): ");
         string noun = Console.ReadLine();
 		Console.WriteLine();
 
